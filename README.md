@@ -24,7 +24,7 @@ Group Name:ลูกหมี
 
 วิชานี้เรียน.....
 
-* บทที่ 1 [Introduction] (Link)
+* บทที่ 1 [Introduction](Link)
   * นิยาม Data mining 
   * ประเภท 
 * บทที่ 2 [Know your Data] 
