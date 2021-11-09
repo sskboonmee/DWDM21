@@ -26,7 +26,9 @@ Group Name:ลูกหมี
 Warehoure = โรงงาน คือ เก็บ Data มาแล้วก็คัดแยกจัดเก็บต่อจากDatabase เป็นตัวบรรจุข้อมูล หลังจากนั้นตัวที่ถูกเก็บมาเราก็จะทำ Mining ต่อ คือ การทำเหมืองข้อมูล จะคล้ายเราสกัดหาของมีค่าที่อยู่ใน Data 
 ซึ่ง Data warehouse จะเป็นประโยชน์สำหรับการ mining
 
-* บทที่ 1 [Introduction](https://github.com/sskboonmee/DWDM21/blob/main/Chapter1_ID6230205399.pdf)(https://github.com/sskboonmee/DWDM21/blob/main/01Introlecturebysasikarn.pdf)
+* บทที่ 1 [Introduction]
+* (https://github.com/sskboonmee/DWDM21/blob/main/Chapter1_ID6230205399.pdf)
+* (https://github.com/sskboonmee/DWDM21/blob/main/01Introlecturebysasikarn.pdf)
   * Why Data Mining = เราจะเอา Data ที่เรามีอยู่ไปสกัลองค์ความรู้ได้ยังไง 
   * What Is Data Mining = Data Mining คืออะไร
   * A Multi=Dimensional View of Data Mining = Data ต่างๆที่ใช้ใน Data Mining 
