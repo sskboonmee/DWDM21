@@ -101,3 +101,12 @@ Warehoure = โรงงาน คือ เก็บ Data มาแล้วก
        * Group by (pandas)
        * [PD] save ตารางเอาไปใช้ที่อื่น
        * [PD] การสร้างตาราง
+* บทที่ 4 [Data Warehousing and On-line Analytical Processing]
+  * lecture 
+    * (https://github.com/sskboonmee/DWDM21/blob/main/04OLAPlecturebysasikarn.pdf) 
+      * Data Warehouse : Basic Concepts 
+      * Data Warehouse Modeling : Data Cube and OLAP  โมเดลของData Warehouse
+       *(https://github.com/sskboonmee/DWDM21/blob/main/%E0%B8%9A%E0%B8%974.pdf)
+      * Data Warehouse Design and Usage การออกแบบและการใช้งานคลังข้อมูล
+      * Data Warehouse Implementation การใช้งานคลังข้อมูล
+      * Summary 
