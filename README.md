@@ -20,7 +20,7 @@ Group Name:ลูกหมี
 5 **นางสาวนันทิชา วิชิต
 รหัส 623020526-8**
 
-#สารบัญเนื้อหา
+# สารบัญเนื้อหา
 
 วิชานี้เรียน Data Warehouse & Data Mining คือจะเรียนเกี่ยวกับข้อมูลว่า Data มีกระบวนการอะไรบ้างหลังจากถูกเก็บไว้ใน Database คือเอามันมาจัดการเพื่อสกัดความรู้และนำมันไปใช้ประโยชน์
 Warehoure = โรงงาน คือ เก็บ Data มาแล้วก็คัดแยกจัดเก็บต่อจากDatabase เป็นตัวบรรจุข้อมูล หลังจากนั้นตัวที่ถูกเก็บมาเราก็จะทำ Mining ต่อ คือ การทำเหมืองข้อมูล จะคล้ายเราสกัดหาของมีค่าที่อยู่ใน Data 
@@ -110,3 +110,40 @@ Warehoure = โรงงาน คือ เก็บ Data มาแล้วก
       * Data Warehouse Design and Usage การออกแบบและการใช้งานคลังข้อมูล
       * Data Warehouse Implementation การใช้งานคลังข้อมูล
       * Summary 
+* บทที่ 5 Association Rules
+  * lecture
+    * (https://github.com/sskboonmee/DWDM21/blob/main/Chapter623_09.pdf)  
+  * Github 
+    * (https://github.com/sskboonmee/DWDM21/blob/main/Chapter6_Association_Rules.ipynb)  
+    * เตรียม Data สำหรับ (Fequence Pattern) Association Rule
+    * Apriori
+ * บทที่ 6 [Classification]
+  * Lecture
+    * (https://github.com/sskboonmee/DWDM21/blob/main/08Clasificationlecturebysasikarn%20.pdf)
+    * (https://github.com/sskboonmee/DWDM21/blob/main/Artificial-Neuron-Network-19_10.pdf)
+  * Github
+    * Decision Tree
+      * (https://github.com/sskboonmee/DWDM21/blob/main/Chapter7_Classification(Decision_Tree).ipynb)
+      * Load data
+      * Train Model
+      * Evaluation
+      * Advanced Tree
+      * Test
+    * KNN
+      * (https://github.com/sskboonmee/DWDM21/blob/main/Chap7Classification(KNN_NN).ipynb)
+      * Load data
+      * Split data
+      * Train Model 
+      * Retrain & Evaluate
+      * Neural Network
+    * Evaluation
+      * (https://github.com/sskboonmee/DWDM21/blob/main/Chap7_Classification_(Evaluation).ipynb)
+      * Load data
+      * Split data     
+      * สร้าง Model ทำนาย
+        * import
+        * define
+        * train
+      * evaluation
+ * บทที่ 7 [Clustering]  
+           
