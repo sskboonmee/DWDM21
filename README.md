@@ -75,3 +75,28 @@ Warehoure = โรงงาน คือ เก็บ Data มาแล้วก
        * Distance function
        * Manhattan Distance (L1-norm)
        * Distance of Binary Value
+* บทที่ 3 [Data Preprocessing]
+  * lecture  
+     * (https://github.com/sskboonmee/DWDM21/blob/main/HW6CH3-sasikarn.pdf)
+  * Github
+     * (https://github.com/sskboonmee/DWDM21/blob/main/Data_processing_(Chapter3).ipynb)
+     * ชี้ข้อมูลในตาราง
+       * ชี้แบบธรรมดาใช้ [ชื่อ column] [index]
+       * ชี้แบบ .iloc (มองข้อมูลเป็น matrix)
+     * Missing Values NAN NULL NA
+       * Handling Missing Value 1 (ลบ missing)
+       * Handling Missing Value 1.5 (ลบค่า Missing เฉพาะใน Column ที่เราสนใจ)
+       * Handing Missing Value 2 (แทนด้วย class ใหม่ (unknown))
+       * Handing Missing Value 3 (แทนด้วย class ใหม่ (ค่าที่เหมาะสม))
+       * Handing Missing Value 4 (แทนด้วย ค่ากลาง)
+       * Handing Missing Value 5 (แทนด้วย ค่ากลางของ Samples ใน Class เดียวกัน)
+     * Select date by values [PD]
+       * ต่อตารางแนวแกน Y [PD]
+       * การเรียงข้อมูล [PD]
+       * Outlier
+     * การรวมตาราง Data Integration (ต่อตารางในแนวแกน x)
+       * รวม 2 ตาราง (.merge())
+       * เลือกเฉพาะ column ที่ต้องการมาแปะ (.map())
+       * Group by (pandas)
+       * [PD] save ตารางเอาไปใช้ที่อื่น
+       * [PD] การสร้างตาราง
