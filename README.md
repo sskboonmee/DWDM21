@@ -41,7 +41,8 @@ Warehoure = โรงงาน คือ เก็บ Data มาแล้วก
 
 * บทที่ 2 [Know your Data] 
   * lecture
-    * https://github.com/sskboonmee/DWDM21/blob/main/HW-2.1-ID6230205399.pdf
+    * (https://github.com/sskboonmee/DWDM21/blob/main/HW-2.1-ID6230205399.pdf)
+    * (https://github.com/sskboonmee/DWDM21/blob/main/Measuring-Data-similarity-and-Dissmilarity-lecturebysasikarn.pdf)
   * Basic python
     * (https://github.com/sskboonmee/DWDM21/blob/main/Data101(Chapter2).ipynb)
      * Variables
@@ -50,11 +51,11 @@ Warehoure = โรงงาน คือ เก็บ Data มาแล้วก
      * Condition
      * Function
   * Data Exploration
-    * https://github.com/sskboonmee/DWDM21/blob/main/Data102(Chapter2).ipynb 
+    * (https://github.com/sskboonmee/DWDM21/blob/main/Data102(Chapter2).ipynb) 
      * Boxplot
      * Times Series Plot 
   * Data Visualization 
-    * https://github.com/sskboonmee/DWDM21/blob/main/Data_Visualization.ipynb
+    * (https://github.com/sskboonmee/DWDM21/blob/main/Data_Visualization.ipynb)
      * Scatter plot
      * Plot
      * Bar chart
