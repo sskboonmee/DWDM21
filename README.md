@@ -1,7 +1,7 @@
 # DWDM21
 Data Warehouse &amp;  Data Mining 2021
 
-Sasikarn Boonmee  6230205399
+ชื่อ นางสาวศศิกานต์  บุญมี รหัสนักศึกษา 6230205399
 
 Group Name:ลูกหมี
 
@@ -117,7 +117,7 @@ Warehoure = โรงงาน คือ เก็บ Data มาแล้วก
     * (https://github.com/sskboonmee/DWDM21/blob/main/Chapter6_Association_Rules.ipynb)  
     * เตรียม Data สำหรับ (Fequence Pattern) Association Rule
     * Apriori
- * บทที่ 6 [Classification]
+* บทที่ 6 [Classification]
   * Lecture
     * (https://github.com/sskboonmee/DWDM21/blob/main/08Clasificationlecturebysasikarn%20.pdf)
     * (https://github.com/sskboonmee/DWDM21/blob/main/Artificial-Neuron-Network-19_10.pdf)
@@ -145,5 +145,11 @@ Warehoure = โรงงาน คือ เก็บ Data มาแล้วก
         * define
         * train
       * evaluation
- * บทที่ 7 [Clustering]  
-           
+* บทที่ 7 [Clustering]  
+  * Lecture
+    * (https://github.com/sskboonmee/DWDM21/blob/main/Chap8-14_10.pdf)  
+    * (https://github.com/sskboonmee/DWDM21/blob/main/Chap8sasikarn.pdf) 
+    * (https://github.com/sskboonmee/DWDM21/blob/main/Chap8_part2.pdf)  
+  * Github
+    * (https://github.com/sskboonmee/DWDM21/blob/main/Chap8_Clustering.ipynb) 
+    *    
