@@ -121,6 +121,9 @@ Warehoure = โรงงาน คือ เก็บ Data มาแล้วก
   * Lecture
     * (https://github.com/sskboonmee/DWDM21/blob/main/08Clasificationlecturebysasikarn%20.pdf)
     * (https://github.com/sskboonmee/DWDM21/blob/main/Artificial-Neuron-Network-19_10.pdf)
+    * (https://github.com/sskboonmee/DWDM21/blob/main/Chap8-14_10.pdf)  
+    * (https://github.com/sskboonmee/DWDM21/blob/main/Chap8sasikarn.pdf) 
+    * (https://github.com/sskboonmee/DWDM21/blob/main/Chap8_part2.pdf) 
   * Github
     * Decision Tree
       * (https://github.com/sskboonmee/DWDM21/blob/main/Chapter7_Classification(Decision_Tree).ipynb)
@@ -147,9 +150,24 @@ Warehoure = โรงงาน คือ เก็บ Data มาแล้วก
       * evaluation
 * บทที่ 7 [Clustering]  
   * Lecture
-    * (https://github.com/sskboonmee/DWDM21/blob/main/Chap8-14_10.pdf)  
-    * (https://github.com/sskboonmee/DWDM21/blob/main/Chap8sasikarn.pdf) 
-    * (https://github.com/sskboonmee/DWDM21/blob/main/Chap8_part2.pdf)  
+    * (https://github.com/sskboonmee/DWDM21/blob/main/10ClusBasiclecturebysasikarn.pdf)
   * Github
     * (https://github.com/sskboonmee/DWDM21/blob/main/Chap8_Clustering.ipynb) 
-    *    
+    * K-means
+      * Generate Data    
+      * Explore data
+      * Clustering
+    * Example Application (Color Quantization)
+      * นับจำนวนสี
+      * จัดกลุ่มสีให้เหลือ 16 สี
+      * ใช้ centroid เป็นตัวแทนของสี
+    * Hierachical Clustering
+    * Clustering Evaluation
+* MiniExam
+  * (https://github.com/sskboonmee/DWDM21/blob/main/MiniExam.ipynb) 
+* Project
+  * Powerpoint  
+    * (https://github.com/sskboonmee/DWDM21/blob/main/Project%20%E0%B8%81%E0%B8%A5%E0%B8%B8%E0%B9%88%E0%B8%A1%E0%B8%A5%E0%B8%B9%E0%B8%81%E0%B8%AB%E0%B8%A1%E0%B8%B5.pdf)  
+  * Github
+    * (https://github.com/sskboonmee/DWDM21/blob/main/Projectlookmhee.ipynb)
+
